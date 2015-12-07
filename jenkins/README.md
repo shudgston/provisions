@@ -7,9 +7,11 @@ Sets up Vagrant VM provisioned with a basic Jenkins CI server installation.
 
 You can copy this directory to wherever you like to keep Vagrant files.
 
-With Ansible and Vagrant already installed, run the following command from this directory.
+With Ansible and Vagrant already installed, run the following commands from this directory.
 
 ```
+# Install a prepackaged jenkins role
+ansible-galaxy install geerlingguy.jenkins
 vagrant up
 ```
 
