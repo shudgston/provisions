@@ -12,6 +12,7 @@ With Ansible and Vagrant already installed, run the following commands from this
 ```
 # Install a prepackaged jenkins role
 ansible-galaxy install geerlingguy.jenkins
+ansible-galaxy install geerlingguy.git
 vagrant up
 ```
 
