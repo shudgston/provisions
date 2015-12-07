@@ -1,0 +1,6 @@
+- hosts: ci-server
+  vars:
+    jenkins_hostname: localhost
+  roles:
+    - geerlingguy.jenkins
+  sudo: yes
