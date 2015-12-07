@@ -1,6 +1,6 @@
 # Jenkins
 
-Sets up Vagrant VM provisioned with a basic Jenkins CI server installation.
+Sets up Vagrant VM provisioned with a basic Jenkins CI server installation.  See the top-level README file for installation prerequisites.
 
 
 ## Installation
