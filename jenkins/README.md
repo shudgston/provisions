@@ -5,7 +5,7 @@ Sets up Vagrant VM provisioned with a basic Jenkins CI server installation.
 
 ## Installation
 
-You can copy this directory to wherever you like to keep Vagrant files.
+You can treat this directory like any old directory that contains a Vagrantfile.  You may want to completely copy this directory to another location on your file system to avoid polluting the repository.
 
 With Ansible and Vagrant already installed, run the following commands from this directory.
 
